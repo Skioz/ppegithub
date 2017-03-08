@@ -1,3 +1,5 @@
+<?php  include "connnectbdd.php"?>
+
 <!DOCTYPE html>
 <html lang="en">
 
