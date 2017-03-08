@@ -37,7 +37,11 @@
         <button type="submit" class="btn btn-default">Rechercher</button>
       </form>
       <ul class="nav navbar-nav navbar-right">
+<<<<<<< HEAD
         <li><a href="#">Contact</a></li>
+=======
+        <li><a href="contact.php">Contact</a></li>
+>>>>>>> origin/master
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lien <span class="caret"></span></a>
           <ul class="dropdown-menu">
